@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Email Header Analyzer Blog</title>
+  <link>https://workin0s1.github.io/email-header-analyzer/</link>
+  <description>Latest posts on email header analysis, security and tools</description>
+
+  <item>
+    <title>How to Analyze Email Header</title>
+    <link>https://workin0s1.github.io/email-header-analyzer/blog/how-to-analyze-email-header.html</link>
+    <description>Learn how to analyze email headers and trace sender IPs.</description>
+  </item>
+
+  <item>
+    <title>SPF, DKIM, and DMARC Explained</title>
+    <link>https://workin0s1.github.io/email-header-analyzer/blog/spf-dkim-dmarc-explained.html</link>
+    <description>Understand how email authentication works to stop spoofing.</description>
+  </item>
+
+  <item>
+    <title>Top 5 Email Header Analyzer Tools</title>
+    <link>https://workin0s1.github.io/email-header-analyzer/blog/top-5-email-header-tools.html</link>
+    <description>Compare the best tools to analyze email headers.</description>
+  </item>
+
+  <item>
+    <title>How to Identify Fake Emails</title>
+    <link>https://workin0s1.github.io/email-header-analyzer/blog/how-to-identify-fake-emails.html</link>
+    <description>Spot fake or phishing emails using header info.</description>
+  </item>
+
+  <item>
+    <title>How Email Travels Across the Internet</title>
+    <link>https://workin0s1.github.io/email-header-analyzer/blog/how-email-travels.html</link>
+    <description>Understand the journey of an email across the web.</description>
+  </item>
+
+</channel>
+</rss>
